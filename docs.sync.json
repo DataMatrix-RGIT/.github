@@ -1,3 +1,5 @@
 {
-  "docsRepo":"s"
+  "$schema": "http://my-app.fumadocs-github-sync.workers.dev/config",
+  "docsRepo": "DMX-Docs",
+  "syncRepo": []
 }
